@@ -1,7 +1,6 @@
 
-# Hồi Ức Đỏ (Red Memories) 🇻🇳
+# Hồi Ức Đỏ (Red Memories)
 > **Một trò chơi điện tử 2D về lịch sử Việt Nam, lấy cảm hứng từ tinh thần phản chiến và những linh hồn vô danh.**
-
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3.46f1%20LTS-black?logo=unity)](https://unity.com/)
 [![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Windows-blue)](https://www.microsoft.com/windows)
 
@@ -15,6 +14,10 @@ Lấy cảm hứng từ tựa game *Valiant Hearts: The Great War*, dự án tá
 * **Nguyễn Thiện Nhân :** Nhóm trưởng, Đạo diễn cho kịch bản và âm thanh,GDD của nhóm.
 * **Trang Gia Ngân :** Thiết kế đồ hoạ chính của nhóm ,đảm nhận phần Animation và UI/UX của game.
 * **Hoàng Đình Khôi :** Mình là Coder chính,kiêm Level & Gameplay Design.
+
+### 📚 Tài liệu chi tiết
+* [cite_start][Báo cáo đồ án (PDF)](path/to/Bao_cao_DATN_BCDA.pdf) [cite: 35]
+* [cite_start][Poster dự án (PDF)](path/to/PS2_Copy.pdf) [cite: 1]
 
 ### Thông điệp cốt lõi:
 * **Tính nhân văn:** Khắc họa sự vô danh đầy bi kịch và những mất mát lặng thầm.
