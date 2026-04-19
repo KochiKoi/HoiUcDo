@@ -1,0 +1,416 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Language_UIUX Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Language_UIUX
+  m_TableCollectionNameGuidString: 12408c4afeb97e04da135b5c064c075d
+  m_Entries:
+  - m_Id: 491135520768
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122079813632
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393911091200
+    m_Key: chapter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200064
+    m_Key: option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200065
+    m_Key: credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200066
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200067
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200068
+    m_Key: vietnamese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200069
+    m_Key: english
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200070
+    m_Key: japanese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200071
+    m_Key: sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200072
+    m_Key: mastersound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200073
+    m_Key: sfxsound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200074
+    m_Key: musicsound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200075
+    m_Key: envisound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200076
+    m_Key: ambisound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200077
+    m_Key: voicesound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200078
+    m_Key: keybind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200079
+    m_Key: moveleftbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200080
+    m_Key: moverightbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200081
+    m_Key: interactbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200082
+    m_Key: rangeupbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200083
+    m_Key: rangedownbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200084
+    m_Key: vsyncbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200085
+    m_Key: fullscreenbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200086
+    m_Key: backtomenubtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200087
+    m_Key: backtogamebtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200088
+    m_Key: stt1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200089
+    m_Key: stt2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200090
+    m_Key: stt3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200091
+    m_Key: stt4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200092
+    m_Key: stt5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200093
+    m_Key: stt6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200094
+    m_Key: stt7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200095
+    m_Key: stt8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200096
+    m_Key: stt9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200097
+    m_Key: stt10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200098
+    m_Key: stt11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200099
+    m_Key: stt12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200100
+    m_Key: stt13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200101
+    m_Key: stt14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200102
+    m_Key: stt15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200103
+    m_Key: stt16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200104
+    m_Key: stt17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200105
+    m_Key: stt18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200106
+    m_Key: stt19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200107
+    m_Key: stt20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200108
+    m_Key: stt21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200109
+    m_Key: stt22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200110
+    m_Key: stt23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200111
+    m_Key: stt24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200112
+    m_Key: stt25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200113
+    m_Key: stt26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200114
+    m_Key: stt27
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200115
+    m_Key: stt28
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200116
+    m_Key: stt29
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200117
+    m_Key: stt30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200118
+    m_Key: stt31
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200119
+    m_Key: stt32
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200120
+    m_Key: stt33
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200121
+    m_Key: stt34
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200122
+    m_Key: stt35
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200123
+    m_Key: stt36
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200124
+    m_Key: stt37
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200125
+    m_Key: stt38
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200126
+    m_Key: stt39
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200127
+    m_Key: stt40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171584
+    m_Key: stt41
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171585
+    m_Key: stt42
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171586
+    m_Key: stt43
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171587
+    m_Key: stt44
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171588
+    m_Key: stt45
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171589
+    m_Key: stt46
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1741829455564800
+    m_Key: pressstartbtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12297507865710592
+    m_Key: presstocontinue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12298813149892608
+    m_Key: npcdis900to1000
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299373357912064
+    m_Key: npcdis600to900
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299652077801472
+    m_Key: npcdis400to600
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299781555965952
+    m_Key: npcdis400
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299899390742528
+    m_Key: npcmissfar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300031582621696
+    m_Key: npcmissclose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300441932353536
+    m_Key: npcalmosthit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300646652137472
+    m_Key: npcarmorhit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300758015102976
+    m_Key: npchit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13334069944602624
+    m_Key: playdemo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13336607221698560
+    m_Key: cgdemo1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14350052155019264
+    m_Key: dial01demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15139831633235968
+    m_Key: disclaimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15145634146635776
+    m_Key: dial02demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15860888317022208
+    m_Key: staytuned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21413792167841792
+    m_Key: thankslabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425117589753856
+    m_Key: soundoption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425225723105280
+    m_Key: mastervl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425315808366592
+    m_Key: ambientvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425411400749056
+    m_Key: sfxvolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425517642469376
+    m_Key: musicvl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425593978802176
+    m_Key: mutevl
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5813059202871197720
+  references:
+    version: 2
+    RefIds:
+    - rid: 5813059202871197720
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1742991988096

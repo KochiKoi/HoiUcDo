@@ -1,0 +1,4 @@
+repository "VNW5475@ShirakamiBismarck@cloud"
+  path "/"
+    br "/main"
+    co "/main"

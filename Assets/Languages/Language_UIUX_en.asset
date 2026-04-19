@@ -1,0 +1,498 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Language_UIUX_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 12408c4afeb97e04da135b5c064c075d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 491135520768
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3122079813632
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393911091200
+    m_Localized: Chapter Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200064
+    m_Localized: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200065
+    m_Localized: Credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200066
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200067
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200068
+    m_Localized: Vietnamese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200069
+    m_Localized: English(en)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200070
+    m_Localized: Japanese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200071
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200072
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200073
+    m_Localized: Sound Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200074
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200075
+    m_Localized: Enviroment Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200076
+    m_Localized: Ambience Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200077
+    m_Localized: Voice Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200078
+    m_Localized: Key Bind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200079
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200080
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200081
+    m_Localized: Interact/Pick Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200082
+    m_Localized: Rangefinder Adjust (Up)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200083
+    m_Localized: Rangefinder Adjust (Down)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200084
+    m_Localized: V-Sync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200085
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200086
+    m_Localized: Back To Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200087
+    m_Localized: Back To Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200088
+    m_Localized: After The August Revolution's victory, the Vietnam's goverment has
+      regained authorities from Japan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200089
+    m_Localized: Vietnam's President Ho Chi Minh read the declaration of independence
+      at Ba Dinh square, Hanoi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200090
+    m_Localized: The Democratic Republic Of Vietnam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200091
+    m_Localized: However, Vietnam still had a lot of unsolved problem, Ho Chi Minh
+      has pointed out three major of them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200092
+    m_Localized: First, illiteracy, the French Colonizer has initiated their Policy
+      Of Ignorance which served them better to rule Vietnam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200093
+    m_Localized: Second, Starvation, the Imperial Japan has force farmers to get
+      rid of wheats in order to planting Jute, leading to food supply shortage causing
+      over 2 million citizens of Northern Vietnam starved to death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200094
+    m_Localized: And lastly, Foreign Invaders, France has clearly shown their intention
+      of re-invading Vietnam once again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200095
+    m_Localized: But not just them, 20 million troops of Chiang Kai Shek marching
+      toward Northern Vietnam, the UK under the Postdam Agreement has entered Southern
+      Vietnam with fellow France among them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200096
+    m_Localized: 'The Vietnam want no war, so they has constantly negotiating for
+      peace '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200097
+    m_Localized: But the more they appease, the more aggressive France become
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200098
+    m_Localized: In such situation, at night 19/12/1946, Ho Chi Minh has issued his
+      speech to all Vietnamese citizens, Calls To The National Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200099
+    m_Localized: The morality of fellow citizens to protect their homeland has been
+      risen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200100
+    m_Localized: French Colonizer, after many times their ultimatum has been rejected,
+      they begin to launch an attack on Hanoi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200101
+    m_Localized: 'In order to buy more time for Vietnam forces to moving to the Viet
+      Bac Base, a lot of volunteers which formed the Capital Regiment decided to
+      stay, using all they have to stop the French army '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200102
+    m_Localized: This battle is just the beginning of the Indochina War, 60 days
+      of flame and blood, many young soldiers has sacrified themselves that day for
+      the nation to live
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200103
+    m_Localized: Thanks to their bravery and sacrificion of the Capital Regiment's
+      soldiers, the Vietnam forces has more time to completely moved to the Viet
+      Bac Base, establishing long-term resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200104
+    m_Localized: Fall Winter Viet Bac Operation, also known ass Operation Lea, the
+      French has set their objective to captured the Vietnam Force dead or alive,
+      to put an end to the resistance of Vietnam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200105
+    m_Localized: In 07/10/1947, 800 French soldiers under the command of Colonel
+      Henri Sauvanag set their foot on Bac Kan, attack many infrastructure such as
+      hospital, factory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200106
+    m_Localized: In 08/10/1947 200 French parachute trooper attack Cho Don, the other
+      forces under the command of Lieutenant colonel  Pierre Communal from Da & Gam
+      river advanced to Phu Doan in 12, Tuyen Quang in 13 and Chiem Hoa in 17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200107
+    m_Localized: From another direction, 8000 foot soldiers by colonel Andre Beaufre
+      commanded, from Lang Son along the colonal road 4 through Dong Nang, Na Cham,
+      That Ke, Dong Khe to Cao Bang in 12/10/1947, then advanced to Bac Kan to surround
+      Viet Bac Base from the East
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200108
+    m_Localized: The airplane which was carrying 12 French Officers are on their
+      way to observing the battlefield was shot down, the Vietnamese Force has taken
+      their plan on Viet Bac Base Advancing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200109
+    m_Localized: After retrieving the French's documents, the messenger solider Nguyen
+      Danh Loc has went through the forest on his foot to deliver the document to
+      the Headquarter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200110
+    m_Localized: After receiving the plan, Vietnam HQ has readjusted their forces
+      for the counter attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200111
+    m_Localized: At Song Lo - Road 2 field, Vietnamese troops under commands of Tran
+      Tu Binh & Ta Xuan Thu, begin the counter attack on the French troops, cut their
+      line of supply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200112
+    m_Localized: 'At Bac Kan - Road 3, Vietnamese troops with Hoang Van Thai commanded
+      has the objective to eliminate the French troops '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200113
+    m_Localized: At Road 4 field, Vo Nguyen Giap directly commanding the troop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200114
+    m_Localized: However, In France, their political state is in unstable condition,
+      forced them has to end to battle with victory soon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200115
+    m_Localized: in 15/10, 2 Vietnam Battalion with one artillery team, advanced
+      200 French soldier at Cho Moi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200116
+    m_Localized: in 22/10, Tuyen Quang self-defence forces used mine to ambush the
+      French vehicles, eliminate 100 of them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200117
+    m_Localized: Also another 17 small ambushes on Phu Thong, Cho Moi - Bac Kan,
+      causing fear in French soldiers, hesitating to moving further from their campsite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200118
+    m_Localized: No matter how strong an army is, one of the most vital point directly
+      contributting to their combat strength is the logistic supply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200119
+    m_Localized: Due to that, The Vietnam HQ has issued to heavily strike at Lo river
+      and Road 4 to cut their line of supply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200120
+    m_Localized: At Lo river, a group of 5 French boats from to Tuyen Quang on their
+      way Doan Hung has been ambushed by artillery and RPG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200121
+    m_Localized: 2 has been sunken leading to all troop onboard drowned, other 2
+      heavily disabled, the last one retreated back to Tuyen Quang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200122
+    m_Localized: Combining with "Empty houses, barren land" issued by the fellow
+      civilians, cut their supply as well
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200123
+    m_Localized: 'Due to this strategy, civilian has clean every food supply from
+      their house, when the French troopers arrived, there is nothing left '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200124
+    m_Localized: After this battle, Lo river route has been cut for 10 days. French
+      press called this event "Doan Hung Disaster"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200125
+    m_Localized: From October to November, many ambushes and attack on the French
+      causing them heavy casualties, their Lea Operation was a failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200126
+    m_Localized: From 19/11 to 14/12/1947, The French still advancing at Tuyen Quang,
+      Thai Nguyen, Phu Lang Thuong, Viet Tri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393978200127
+    m_Localized: French troops destroyed many infrastructure, captured many Vietnam
+      civilians and rescued French prisoners
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171584
+    m_Localized: French Goverment use this battle to consolidate their control over
+      their colony, while the soldier keeping in mind that they are fighting for
+      their country
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171585
+    m_Localized: For some French soldier who is directly fought on the battlefield,
+      some of them, doubting themselves for the war they are fighting, most of people
+      die here are unarmed civilian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171586
+    m_Localized: Witnessing dead people, soldier, civilian corpses on the cold ground,
+      they wonder, if those body down there was them someday
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171587
+    m_Localized: On Viet Bac battlefield, many other battle occured, causing mass
+      casualties, on Vietnam side, more and more civilian has died
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171588
+    m_Localized: More conflict happen, even inside the city, Vietnam guerilla continously
+      ambushed at Chem, Cau Giay, Van Dien, Vinh Tuy. Other happened not just in
+      the Northern but also in the Southern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057393999171589
+    m_Localized: French Commanders after realizing the table has been turned, they
+      decided to retreat out of Viet Bac, from 06/12 to 19/12/1947, French Forces
+      constantly got pushed back and ambushed on their way of retreating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1741829455564800
+    m_Localized: Press Any Button To Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12297507865710592
+    m_Localized: Press Any Button To Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12298813149892608
+    m_Localized: Enemy plane, far, adjusting long range !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299373357912064
+    m_Localized: Enemy plane, incoming !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299652077801472
+    m_Localized: They are getting closer ! Keep firing !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299781555965952
+    m_Localized: They are on our head !!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12299899390742528
+    m_Localized: Too far ! That won't take them down ! Readjust !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300031582621696
+    m_Localized: We need to bring the shell closer !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300441932353536
+    m_Localized: Almost there ! Adjust a little bit and keep firing !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300646652137472
+    m_Localized: Those motherfucker is burning ! Keep firing !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12300758015102976
+    m_Localized: Bite the dust motherfucker !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13334069944602624
+    m_Localized: Play Demo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13336607221698560
+    m_Localized: 'This demo version was built specifically for Graduation Project
+
+
+      Further
+      campaign of this project will be released in the future'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14350052155019264
+    m_Localized: 'GIANG MO VILLAGE
+
+      13/12/1951'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15145634146635776
+    m_Localized: 'WARNING INDICATOR
+
+
+      This warning sigh appearance notify player
+      where the mortar shell will hit, stay away from it'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15139831633235968
+    m_Localized: 'This game is a work of fiction inspired by real historical events.
+      While certain locations, events, and figures are based on actual history, the
+      story, characters, and specific scenarios depicted in this game have been fictionalized
+      for the purposes of narrative and gameplay.
+
+
+      The game does not intend
+      to represent any real person, organization, or belief system with complete
+      accuracy. Any similarities to real people, living or deceased, are purely coincidental
+      unless otherwise stated.
+
+
+      This work is meant to honor the memory of
+      those affected by the events portrayed and is not intended to diminish or distort
+      the historical significance of those events. We encourage players to explore
+      verified historical sources for a deeper understanding.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15860888317022208
+    m_Localized: 'This function is still in development
+
+      Stay Tuned !'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21413792167841792
+    m_Localized: This is our demo for our game, thanks for playing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425117589753856
+    m_Localized: Sound Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425225723105280
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425315808366592
+    m_Localized: Ambient Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425411400749056
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425517642469376
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425593978802176
+    m_Localized: Mute
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
