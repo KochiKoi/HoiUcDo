@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Windows-blue)](https://www.microsoft.com/windows)
 
 ## 📖 Giới thiệu dự án
-Xin chào, mình là KochiKoi,
+###Xin chào, mình là **KochiKoi**,
 **Hồi Ức Đỏ** là dự án đồ án tốt nghiệp cùa chính mình với vai trò là Coder chính khi còn học tại Trường Đại học Công Nghệ TPHCM(HUTECH). Trò chơi được phát triển với mục tiêu thay đổi cách tiếp cận lịch sử khô khan qua sách vở bằng trải nghiệm tương tác sống động.
 
 Lấy cảm hứng từ tựa game *Valiant Hearts: The Great War*, dự án tái hiện cuộc kháng chiến chống thực dân Pháp (1945 - 1954) dưới góc nhìn của những **nhân vật vô danh**. Họ là những người lính, người dân bình thường từ cả hai phía chiến tuyến, đại diện cho những phận người nhỏ bé bị cuốn vào dòng chảy khốc liệt của chiến tranh.
